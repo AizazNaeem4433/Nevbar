@@ -7,7 +7,7 @@ import StarsCanvas from "@/components/Starbackground";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nevbar",
+  title: "Aizaz",
   description: "NevBar testings",
 };
 
