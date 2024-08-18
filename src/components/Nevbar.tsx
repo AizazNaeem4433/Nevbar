@@ -23,7 +23,7 @@ function Nevbar({ className }: { className?: string }) {
       <HoveredLink href="https://www.instagram.com/aizaz_rajput/" target="_blank">Instagram</HoveredLink>
       </div>
       </MenuItem>
-      <MenuItem setActive={setActive} active={active} item="Portfolio">
+      <MenuItem setActive={setActive} active={active} item="Projects">
       <div className="flex flex-col space-y-4 text-sm">
         <HoveredLink href="https://portfolio-p-sigma.vercel.app/" target="_blank">Space Portfolio</HoveredLink>
       </div>
